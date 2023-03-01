@@ -1,0 +1,7 @@
+    1  git clone
+    2  git clone https://github.com/lobodae/wsb_zajecia_aplikacje1.git
+    3  cd wsb_zajecia_aplikacje1.git
+    4  ls wsb_zajecia_aplikacje1
+    5  history > filehistory
+    6  cd wsb_zajecia_aplikacje1
+    7  history > filehistory
